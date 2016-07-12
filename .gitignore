@@ -57,3 +57,5 @@ autom4te.cache/
 lib/python
 COPYING
 INSTALL
+/quickfix_vs12.VC.db
+/quickfix_vs12.VC.VC.opendb
